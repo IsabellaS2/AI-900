@@ -108,7 +108,40 @@
   <p>A bundle of several AI services in one resource</p>
 </details>
 
-<h5>11. You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?</h5>
+<h5>11. Computer vision is based on the manipulation and analysis of what kinds of values in an image?</h5>
+<ol type="a">
+  <li>Timestamps in photograph metadata</li>
+  <li>Pixels</li>
+  <li>Image file names</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Pixels</p>
+</details>
+
+<h5>12. You want to use the Azure AI Vision service to analyze images. You also want to use the Azure AI Language service to analyze text. You want developers to require only one key and endpoint to access all of your services. What kind of resource should you create in your Azure subscription?</h5>
+<ol type="a">
+  <li>Azure AI Vision</li>
+  <li>Azure AI services</li>
+  <li>Azure OpenAI service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI services</p>
+</details>
+
+<h5>13. You want to use the Azure AI Vision service to identify the location of individual items in an image. Which of the following features should you retrieve?</h5>
+<ol type="a">
+  <li>Objects</li>
+  <li>Visual Tags</li>
+  <li>Dense Captions</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Objects</p>
+</details>
+
+<h5>14. You</h5>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -119,7 +152,7 @@
   <p>Regression</p>
 </details>
 
-<h5>12. You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?</h5>
+<h5>14. You</h5>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
