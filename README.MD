@@ -143,15 +143,37 @@
   <p>Objects</p>
 </details>
 
-<h5>14. You</h5>
+<h5>14. How does the Face service indicate the location of faces in images?</h5>
 <ol type="a">
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
+  <li>A pair of coordinates for each face, indicating the center of the face</li>
+  <li>Two pairs of coordinates for each face, indicating the location of the eyes</li>
+  <li>A set of coordinates for each face, defining a rectangular bounding box around the face</li>
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Regression</p>
+  <p>A set of coordinates for each face, defining a rectangular bounding box around the face</p>
+</details>
+
+<h5>15. What is one aspect that might impair facial detection?</h5>
+<ol type="a">
+  <li>Glasses</li>
+  <li>Extreme angles</li>
+  <li>Fast shutter speed</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Extreme angles</p>
+</details>
+
+<h5>16. What two actions are required to try out the capabilities of the Face service?</h5>
+<ol type="a">
+  <li>Create an Azure Cognitive Search resource, and open Vision Studio</li>
+  <li>Create a Face resource, and open Vision Studio</li>
+  <li>Create a Face resource, and open Azure OpenAI Studio</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Create a Face resource, and open Vision Studio</p>
 </details>
 
 <h5>14. You</h5>
@@ -674,26 +696,66 @@
   <p>Generating captions and descriptions of images</p>
 </details>
 
-<h5>9. You</h5>
+<h2>Fundamentals of Facical Recognition</h2>
+
+<h5>1. What is the primary purpose of face detection and analysis in artificial intelligence?</h5>
 <ol type="a">
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
+  <li>To analyze text data</li>
+  <li>To locate and analyze human faces in images or video content</li>
+  <li>To identify animals in photographs</li>
+  <li>To generate captions for images</li>
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Regression</p>
+  <p>To locate and analyze human faces in images or video content</p>
 </details>
 
-<h5>10. You</h5>
+<h5>2. What is an application of facial recognition?</h5>
 <ol type="a">
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
+  <li>Identifying animals in photographs</li>
+  <li>Automatically tagging known friends in photographs on social media</li>
+  <li>Detecting objects in images</li>
+  <li>Analyzing text data</li>
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Regression</p>
+  <p>Automatically tagging known friends in photographs on social media</p>
+</details>
+
+<h5>3. What is the purpose of the Azure AI Face service?</h5>
+<ol type="a">
+  <li>To provide basic face detection and analysis</li>
+  <li>To identify animals in videos</li>
+  <li>To analyze text data</li>
+  <li>To generate captions for images</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To provide basic face detection and analysis</p>
+</details>
+
+<h5>4. What attributes can the Azure Face service provide related to detected faces?</h5>
+<ol type="a">
+  <li>Species of animals</li>
+  <li>Facial expressions</li>
+  <li>Accessories, blur, exposure, glasses, head pose, mask, noise, and occlusion</li>
+  <li>Text content</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Accessories, blur, exposure, glasses, head pose, mask, noise, and occlusion</p>
+</details>
+
+<h5>5. What is a requirement to use the Azure Face service for additional capabilities?</h5>
+<ol type="a">
+  <li>Submit an intake form</li>
+  <li>Subscribe to a premium plan</li>
+  <li>Upgrade to a higher-tier Azure subscription</li>
+  <li>Enroll in a certification program</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Submit an intake form</p>
 </details>
 
 <h5>10. You</h5>
