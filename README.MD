@@ -1,6 +1,6 @@
 <h1>Microsoft Questions</h1>
 
-<h5>1. You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?</h5>
+<h4>1. You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?</h4>
 <ol type="a">
   <li>Azure Machine Learning</li>
   <li>Azure AI Bot Service</li>
@@ -11,7 +11,7 @@
   <p>Azure Machine Learning</p>
 </details>
 
-<h5>2. You work for a wildlife sanctuary and are considering using AI to identify bird species from images. Which AI service should you use to prototype your idea?</h5>
+<h4>2. You work for a wildlife sanctuary and are considering using AI to identify bird species from images. Which AI service should you use to prototype your idea?</h4>
 <ol type="a">
   <li>Azure AI Vision</li>
   <li>Azure AI Search</li>
@@ -22,7 +22,7 @@
   <p>Azure AI Vision</p>
 </details>
 
-<h5>3. A predictive app provides audio output for visually impaired users. Which principle of Responsible AI is reflected here?</h5>
+<h4>3. A predictive app provides audio output for visually impaired users. Which principle of Responsible AI is reflected here?</h4>
 <ol type="a">
   <li>Transparency</li>
   <li>Inclusiveness</li>
@@ -33,7 +33,7 @@
   <p>Inclusiveness</p>
 </details>
 
-<h5>4. You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?</h5>
+<h4>4. You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -44,7 +44,7 @@
   <p>Regression</p>
 </details>
 
-<h5>5. You need to evaluate a classification model. Which metric can you use? </h5>
+<h4>5. You need to evaluate a classification model. Which metric can you use? </h4>
 <ol type="a">
   <li>Mean squared error (MSE)</li>
   <li>Precision</li>
@@ -55,7 +55,7 @@
   <p>Precision</p>
 </details>
 
-<h5>6. In deep learning, what is the purpose of a loss function? </h5>
+<h4>6. In deep learning, what is the purpose of a loss function? </h4>
 <ol type="a">
   <li>To remove data for which no known label values are provided</li>
   <li>To evaluate the aggregate difference between predicted and actual label values</li>
@@ -66,7 +66,7 @@
   <p>To evaluate the aggregate difference between predicted and actual label values</p>
 </details>
 
-<h5>7. What does automated machine learning in Azure Machine Learning enable you to do? </h5>
+<h4>7. What does automated machine learning in Azure Machine Learning enable you to do? </h4>
 <ol type="a">
   <li>Automatically deploy new versions of a model as they're trained</li>
   <li>Automatically provision Azure Machine Learning workspaces for new data scientists in an organisation</li>
@@ -77,7 +77,7 @@
   <p>Automatically run multiple training jobs using different algorithms and parameters to find the best model</p>
 </details>
 
-<h5>8. An application requires three separate AI services. To see the cost for each separately, what type of resource(s) should be created?</h5>
+<h4>8. An application requires three separate AI services. To see the cost for each separately, what type of resource(s) should be created?</h4>
 <ol type="a">
   <li>A multi-service resource that includes all the AI services</li>
   <li>A single-service resource for each AI service</li>
@@ -88,7 +88,7 @@
   <p>A single-service resource for each AI service</p>
 </details>
 
-<h5>9. After logging into one of the Azure studios, what is one task to complete to begin using the studio?</h5>
+<h4>9. After logging into one of the Azure studios, what is one task to complete to begin using the studio?</h4>
 <ol type="a">
   <li>Input a key and endpoint into the studio</li>
   <li>Customize the API request.</li>
@@ -99,7 +99,7 @@
   <p>Associate a resource with the studio</p>
 </details>
 
-<h5>10. What is an Azure AI services resource?</h5>
+<h4>10. What is an Azure AI services resource?</h4>
 <ol type="a">
   <li>A bundle of several AI services in one resource</li>
   <li>An AI service to recognize faces</li>
@@ -110,7 +110,7 @@
   <p>A bundle of several AI services in one resource</p>
 </details>
 
-<h5>11. Computer vision is based on the manipulation and analysis of what kinds of values in an image?</h5>
+<h4>11. Computer vision is based on the manipulation and analysis of what kinds of values in an image?</h4>
 <ol type="a">
   <li>Timestamps in photograph metadata</li>
   <li>Pixels</li>
@@ -121,7 +121,7 @@
   <p>Pixels</p>
 </details>
 
-<h5>12. You want to use the Azure AI Vision service to analyze images. You also want to use the Azure AI Language service to analyze text. You want developers to require only one key and endpoint to access all of your services. What kind of resource should you create in your Azure subscription?</h5>
+<h4>12. You want to use the Azure AI Vision service to analyze images. You also want to use the Azure AI Language service to analyze text. You want developers to require only one key and endpoint to access all of your services. What kind of resource should you create in your Azure subscription?</h4>
 <ol type="a">
   <li>Azure AI Vision</li>
   <li>Azure AI services</li>
@@ -132,7 +132,7 @@
   <p>Azure AI services</p>
 </details>
 
-<h5>13. You want to use the Azure AI Vision service to identify the location of individual items in an image. Which of the following features should you retrieve?</h5>
+<h4>13. You want to use the Azure AI Vision service to identify the location of individual items in an image. Which of the following features should you retrieve?</h4>
 <ol type="a">
   <li>Objects</li>
   <li>Visual Tags</li>
@@ -143,7 +143,7 @@
   <p>Objects</p>
 </details>
 
-<h5>14. How does the Face service indicate the location of faces in images?</h5>
+<h4>14. How does the Face service indicate the location of faces in images?</h4>
 <ol type="a">
   <li>A pair of coordinates for each face, indicating the center of the face</li>
   <li>Two pairs of coordinates for each face, indicating the location of the eyes</li>
@@ -154,7 +154,7 @@
   <p>A set of coordinates for each face, defining a rectangular bounding box around the face</p>
 </details>
 
-<h5>15. What is one aspect that might impair facial detection?</h5>
+<h4>15. What is one aspect that might impair facial detection?</h4>
 <ol type="a">
   <li>Glasses</li>
   <li>Extreme angles</li>
@@ -165,7 +165,7 @@
   <p>Extreme angles</p>
 </details>
 
-<h5>16. What two actions are required to try out the capabilities of the Face service?</h5>
+<h4>16. What two actions are required to try out the capabilities of the Face service?</h4>
 <ol type="a">
   <li>Create an Azure Cognitive Search resource, and open Vision Studio</li>
   <li>Create a Face resource, and open Vision Studio</li>
@@ -176,7 +176,7 @@
   <p>Create a Face resource, and open Vision Studio</p>
 </details>
 
-<h5>14. You</h5>
+<h4>14. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -191,7 +191,7 @@
 <h4>These are multiple choice questions I made up based on my notes to help me study</h4>
 <h2>Fundamental AI Concepts</h2>
 
-<h5>1. What is AI?</h5>
+<h4>1. What is AI?</h4>
 <ol type="a">
   <li>Software that imitates human behaviors and capabilities</li>
   <li>Advanced mathematics</li>
@@ -202,7 +202,7 @@
   <summary>Show Answer</summary>
   <p>Software that imitates human behaviors and capabilities</p>
 </details>
-<h5>2. What are the key workloads in AI?</h5>
+<h4>2. What are the key workloads in AI?</h4>
 <ol type="a">
   <li>Data science</li>
   <li>Advanced mathematics</li>
@@ -213,7 +213,7 @@
   <summary>Show Answer</summary>
   <p>Machine learning, computer vision, natural language processing</p>
 </details>
-<h5>3. How do machines learn?</h5>
+<h4>3. How do machines learn?</h4>
 <ol type="a">
   <li>By watching humans</li>
   <li>Through trial and error</li>
@@ -224,7 +224,7 @@
   <summary>Show Answer</summary>
   <p>Through data</p>
 </details>
-<h5>4. Where can you use computer vision solutions?</h5>
+<h4>4. Where can you use computer vision solutions?</h4>
 <ol type="a">
   <li>In agriculture</li>
   <li>In robotics</li>
@@ -235,7 +235,7 @@
   <summary>Show Answer</summary>
   <p>In Microsoft Azure</p>
 </details>
-<h5>5. What area of AI deals with visual processing?</h5>
+<h4>5. What area of AI deals with visual processing?</h4>
 <ol type="a">
   <li>Natural language processing</li>
   <li>Robotics</li>
@@ -246,7 +246,7 @@
   <summary>Show Answer</summary>
   <p>Computer vision</p>
 </details>
-<h5>6. What is image classification?</h5>
+<h4>6. What is image classification?</h4>
 <ol type="a">
   <li>A mechanism for visual perception</li>
   <li>A process of naming images</li>
@@ -257,7 +257,7 @@
   <summary>Show Answer</summary>
   <p>A method for classifying images based on their contents</p>
 </details>
-<h5>7. What principle of responsible AI emphasizes treating all people fairly?</h5>
+<h4>7. What principle of responsible AI emphasizes treating all people fairly?</h4>
 <ol type="a">
   <li>Reliability and safety</li>
   <li>Privacy and security</li>
@@ -268,7 +268,7 @@
   <summary>Show Answer</summary>
   <p>Fairness</p>
 </details>
-<h5>8. Which aspect of responsible AI focuses on ensuring secure handling of data?</h5>
+<h4>8. Which aspect of responsible AI focuses on ensuring secure handling of data?</h4>
 <ol type="a">
   <li>Reliability and safety</li>
   <li>Transparency</li>
@@ -279,7 +279,7 @@
   <summary>Show Answer</summary>
   <p>Privacy and security</p>
 </details>
-<h5>9. What area of AI deals with understanding and interpreting written and spoken language?</h5>
+<h4>9. What area of AI deals with understanding and interpreting written and spoken language?</h4>
 <ol type="a">
   <li>Computer vision</li>
   <li>Machine learning</li>
@@ -290,7 +290,7 @@
   <summary>Show Answer</summary>
   <p>Natural language processing</p>
 </details>
-<h5>10. What Microsoft service provides capabilities for deploying and hosting generative AI models?</h5>
+<h4>10. What Microsoft service provides capabilities for deploying and hosting generative AI models?</h4>
 <ol type="a">
   <li>Azure Vision Studio</li>
   <li>Azure AI Language</li>
@@ -303,7 +303,7 @@
 </details>
 
 <h2>Fundamentals of Machine Learning</h2>
-<h5>1. What is the fundamental goal of machine learning?</h5>
+<h4>1. What is the fundamental goal of machine learning?</h4>
 <ol type="a">
   <li>To write code for predictive models</li>
   <li>To use data to create a predictive model</li>
@@ -314,7 +314,7 @@
   <summary>Show Answer</summary>
   <p>To use data to create a predictive model</p>
 </details>
-<h5>2. What is the process called when a machine learning model calculates an output value based on one or more input values?</h5>
+<h4>2. What is the process called when a machine learning model calculates an output value based on one or more input values?</h4>
 <ol type="a">
   <li>Inference</li>
   <li>Training</li>
@@ -325,7 +325,7 @@
   <summary>Show Answer</summary>
   <p>Inference</p>
 </details>
-<h5>3. What do the features and labels represent in the context of machine learning?</h5>
+<h4>3. What do the features and labels represent in the context of machine learning?</h4>
 <ol type="a">
   <li>Features represent observed attributes, and labels represent predictions</li>
   <li>Features represent predictions, and labels represent observed attributes</li>
@@ -336,7 +336,7 @@
   <summary>Show Answer</summary>
   <p>Features represent observed attributes, and labels represent predictions</p>
 </details>
-<h5>4. What is the purpose of regression in supervised machine learning?</h5>
+<h4>4. What is the purpose of regression in supervised machine learning?</h4>
 <ol type="a">
   <li>To classify observations into discrete groups</li>
   <li>To predict a numeric value</li>
@@ -347,7 +347,7 @@
   <summary>Show Answer</summary>
   <p>To predict a numeric value</p>
 </details>
-<h5>5. What is the primary objective of clustering in unsupervised machine learning?</h5>
+<h4>5. What is the primary objective of clustering in unsupervised machine learning?</h4>
 <ol type="a">
   <li>To determine relationships between features and labels</li>
   <li>To predict a categorization or class</li>
@@ -358,7 +358,7 @@
   <summary>Show Answer</summary>
   <p>To group observations based on similarities</p>
 </details>
-<h5>6. What is regression in machine learning?</h5>
+<h4>6. What is regression in machine learning?</h4>
 <ol type="a">
   <li>A form of unsupervised learning</li>
   <li>A form of supervised learning where the label represents a categorization</li>
@@ -370,7 +370,7 @@
   <p>A form of supervised learning where the label predicted by the model is a numeric value</p>
 </details>
 
-<h5>7. Which of the following is an example of regression?</h5>
+<h4>7. Which of the following is an example of regression?</h4>
 <ol type="a">
   <li>Predicting whether a bank customer will default on a loan</li>
   <li>Predicting the genre of a movie</li>
@@ -382,7 +382,7 @@
   <p>Predicting the fuel efficiency of a car</p>
 </details>
 
-<h5>8. What is classification in machine learning?</h5>
+<h4>8. What is classification in machine learning?</h4>
 <ol type="a">
   <li>A form of unsupervised learning</li>
   <li>A form of supervised learning where the label represents a categorization</li>
@@ -394,7 +394,7 @@
   <p>A form of supervised learning where the label represents a categorization</p>
 </details>
 
-<h5>9. What is an example of binary classification?</h5>
+<h4>9. What is an example of binary classification?</h4>
 <ol type="a">
   <li>Predicting the species of a penguin</li>
   <li>Predicting the selling price of a property</li>
@@ -406,7 +406,7 @@
   <p>Predicting whether a patient is at risk for diabetes</p>
 </details>
 
-<h5>10. What evaluation metric is commonly used for evaluating a regression model?</h5>
+<h4>10. What evaluation metric is commonly used for evaluating a regression model?</h4>
 <ol type="a">
   <li>Accuracy</li>
   <li>Recall</li>
@@ -418,7 +418,7 @@
   <p>Mean Absolute Error (MAE)</p>
 </details>
 
-<h5>11. What evaluation metric is commonly used for evaluating a binary classification model?</h5>
+<h4>11. What evaluation metric is commonly used for evaluating a binary classification model?</h4>
 <ol type="a">
   <li>Mean Squared Error (MSE)</li>
   <li>F1-score</li>
@@ -430,7 +430,7 @@
   <p>F1-score</p>
 </details>
 
-<h5>12. What is multiclass classification?</h5>
+<h4>12. What is multiclass classification?</h4>
 <ol type="a">
   <li>A form of unsupervised learning</li>
   <li>A form of supervised learning where the label represents a categorization</li>
@@ -442,7 +442,7 @@
   <p>A form of supervised learning where the label represents a categorization</p>
 </details>
 
-<h5>13. What is an example of multiclass classification?</h5>
+<h4>13. What is an example of multiclass classification?</h4>
 <ol type="a">
   <li>Predicting the selling price of a property</li>
   <li>Predicting whether a bank customer will default on a loan</li>
@@ -454,7 +454,7 @@
   <p>Predicting the genre of a movie</p>
 </details>
 
-<h5>14. What is clustering in machine learning?</h5>
+<h4>14. What is clustering in machine learning?</h4>
 <ol type="a">
   <li>A form of supervised learning where the label represents a categorization</li>
   <li>A form of unsupervised learning</li>
@@ -466,7 +466,7 @@
   <p>A form of unsupervised learning</p>
 </details>
 
-<h5>15. What is an example of clustering?</h5>
+<h4>15. What is an example of clustering?</h4>
 <ol type="a">
   <li>Predicting the species of a penguin</li>
   <li>Grouping flowers based on the number of leaves and petals</li>
@@ -478,7 +478,7 @@
   <p>Grouping flowers based on the number of leaves and petals</p>
 </details>
 
-<h5>16. What is the key objective of training a clustering model?</h5>
+<h4>16. What is the key objective of training a clustering model?</h4>
 <ol type="a">
   <li>To maximize accuracy</li>
   <li>To minimize recall</li>
@@ -490,7 +490,7 @@
   <p>To group data points into clusters based on similarities</p>
 </details>
 
-<h5>17. Which metric can be used to evaluate the quality of clusters?</h5>
+<h4>17. Which metric can be used to evaluate the quality of clusters?</h4>
 <ol type="a">
   <li>Accuracy</li>
   <li>Recall</li>
@@ -502,7 +502,7 @@
   <p>Silhouette</p>
 </details>
 
-<h5>18. What is deep learning?</h5>
+<h4>18. What is deep learning?</h4>
 <ol type="a">
   <li>A form of unsupervised learning</li>
   <li>A form of supervised learning</li>
@@ -514,7 +514,7 @@
   <p>An advanced form of machine learning inspired by the human brain</p>
 </details>
 
-<h5>19. What is a neural network?</h5>
+<h4>19. What is a neural network?</h4>
 <ol type="a">
   <li>A biological system for transmitting information</li>
   <li>An algorithm for clustering data points</li>
@@ -526,7 +526,7 @@
   <p>A function that maps inputs to outputs based on learned weights</p>
 </details>
 
-<h5>20. What is Azure Machine Learning?</h5>
+<h4>20. What is Azure Machine Learning?</h4>
 <ol type="a">
   <li>A programming language for machine learning</li>
   <li>A cloud service for managing machine learning projects</li>
@@ -538,7 +538,7 @@
   <p>A cloud service for managing machine learning projects</p>
 </details>
 
-<h5>21. What is the purpose of an Azure Machine Learning workspace?</h5>
+<h4>21. What is the purpose of an Azure Machine Learning workspace?</h4>
 <ol type="a">
   <li>To import and explore data</li>
   <li>To provision compute resources</li>
@@ -551,7 +551,7 @@
 </details>
 
 <h2>Fundamentals of Azure AI Services</h2>
-<h5>1. What is a significant benefit of Azure AI services?</h5>
+<h4>1. What is a significant benefit of Azure AI services?</h4>
 <ol type="a">
   <li>They require specialist AI knowledge to implement</li>
   <li>They are only accessible to large technology companies</li>
@@ -562,7 +562,7 @@
   <summary>Show Answer</summary>
   <p>They unlock automation for workloads in language, vision, intelligent search, content generation, and more</p>
 </details>
-<h5>2. How do Azure AI services dramatically improve speed-to-market?</h5>
+<h4>2. How do Azure AI services dramatically improve speed-to-market?</h4>
 <ol type="a">
   <li>By requiring extensive coding skills</li>
   <li>By using pre-trained machine learning models and deploying them as resources</li>
@@ -573,7 +573,7 @@
   <summary>Show Answer</summary>
   <p>By using pre-trained machine learning models and deploying them as resources</p>
 </details>
-<h5>3. What are the two types of Azure AI service resources?</h5>
+<h4>3. What are the two types of Azure AI service resources?</h4>
 <ol type="a">
   <li>Basic and advanced</li>
   <li>Public and private</li>
@@ -584,7 +584,7 @@
   <summary>Show Answer</summary>
   <p>Multi-service and single-service</p>
 </details>
-<h5>4. How can developers access Azure AI services?</h5>
+<h4>4. How can developers access Azure AI services?</h4>
 <ol type="a">
   <li>Through REST APIs, client libraries, or integrated tools</li>
   <li>Through complex programming languages only</li>
@@ -595,7 +595,7 @@
   <summary>Show Answer</summary>
   <p>Through REST APIs, client libraries, or integrated tools</p>
 </details>
-<h5>5. What is the purpose of authentication in Azure AI services?</h5>
+<h4>5. What is the purpose of authentication in Azure AI services?</h4>
 <ol type="a">
   <li>To provide access to free resources</li>
   <li>To verify the user's identity and authorization to use the service</li>
@@ -608,7 +608,7 @@
 </details>
 
 <h2>Fundamentals of Computer Vision</h2>
-<h5>1. What is an image, from the perspective of a computer program?</h5>
+<h4>1. What is an image, from the perspective of a computer program?</h4>
 <ol type="a">
   <li>A representation of biological eyes</li>
   <li>A visual perception mechanism</li>
@@ -619,7 +619,7 @@
   <p>An array of numeric pixel values</p>
 </details>
 
-<h5>2. What does a single layer of pixel values in an image represent?</h5>
+<h4>2. What does a single layer of pixel values in an image represent?</h4>
 <ol type="a">
   <li>RGB color hues</li>
   <li>Grayscale image</li>
@@ -630,7 +630,7 @@
   <p>Grayscale image</p>
 </details>
 
-<h5>3. What is the primary purpose of applying filters to images in computer vision?</h5>
+<h4>3. What is the primary purpose of applying filters to images in computer vision?</h4>
 <ol type="a">
   <li>To remove data from images</li>
   <li>To manipulate the size of images</li>
@@ -641,7 +641,7 @@
   <p>To modify pixel values and create visual effects</p>
 </details>
 
-<h5>4. Which machine learning model architecture is commonly used in computer vision for image classification?</h5>
+<h4>4. Which machine learning model architecture is commonly used in computer vision for image classification?</h4>
 <ol type="a">
   <li>Recurrent Neural Networks (RNNs)</li>
   <li>Convolutional Neural Networks (CNNs)</li>
@@ -652,7 +652,7 @@
   <p>Convolutional Neural Networks (CNNs)</p>
 </details>
 
-<h5>5. How are filter weights adjusted during the training process of a convolutional neural network?</h5>
+<h4>5. How are filter weights adjusted during the training process of a convolutional neural network?</h4>
 <ol type="a">
   <li>Randomly</li>
   <li>Based on image labels</li>
@@ -663,7 +663,7 @@
   <p>Based on image labels</p>
 </details>
 
-<h5>6. What is the primary function of transformers in natural language processing (NLP)?</h5>
+<h4>6. What is the primary function of transformers in natural language processing (NLP)?</h4>
 <ol type="a">
   <li>Encoding language tokens as vector-based embeddings</li>
   <li>Removing noise from textual data</li>
@@ -674,7 +674,7 @@
   <p>Encoding language tokens as vector-based embeddings</p>
 </details>
 
-<h5>7. What are multi-modal models in computer vision?</h5>
+<h4>7. What are multi-modal models in computer vision?</h4>
 <ol type="a">
   <li>To provide prebuilt and customizable computer vision models</li>
   <li>To train language models</li>
@@ -685,7 +685,7 @@
   <p>To provide prebuilt and customizable computer vision models</p>
 </details>
 
-<h5>8. Which capability is supported by Azure AI Vision service?</h5>
+<h4>8. Which capability is supported by Azure AI Vision service?</h4>
 <ol type="a">
   <li>Generating captions and descriptions of images</li>
   <li>Only optical character recognition</li>
@@ -698,7 +698,7 @@
 
 <h2>Fundamentals of Facical Recognition</h2>
 
-<h5>1. What is the primary purpose of face detection and analysis in artificial intelligence?</h5>
+<h4>1. What is the primary purpose of face detection and analysis in artificial intelligence?</h4>
 <ol type="a">
   <li>To analyze text data</li>
   <li>To locate and analyze human faces in images or video content</li>
@@ -710,7 +710,7 @@
   <p>To locate and analyze human faces in images or video content</p>
 </details>
 
-<h5>2. What is an application of facial recognition?</h5>
+<h4>2. What is an application of facial recognition?</h4>
 <ol type="a">
   <li>Identifying animals in photographs</li>
   <li>Automatically tagging known friends in photographs on social media</li>
@@ -722,7 +722,7 @@
   <p>Automatically tagging known friends in photographs on social media</p>
 </details>
 
-<h5>3. What is the purpose of the Azure AI Face service?</h5>
+<h4>3. What is the purpose of the Azure AI Face service?</h4>
 <ol type="a">
   <li>To provide basic face detection and analysis</li>
   <li>To identify animals in videos</li>
@@ -734,7 +734,7 @@
   <p>To provide basic face detection and analysis</p>
 </details>
 
-<h5>4. What attributes can the Azure Face service provide related to detected faces?</h5>
+<h4>4. What attributes can the Azure Face service provide related to detected faces?</h4>
 <ol type="a">
   <li>Species of animals</li>
   <li>Facial expressions</li>
@@ -746,7 +746,7 @@
   <p>Accessories, blur, exposure, glasses, head pose, mask, noise, and occlusion</p>
 </details>
 
-<h5>5. What is a requirement to use the Azure Face service for additional capabilities?</h5>
+<h4>5. What is a requirement to use the Azure Face service for additional capabilities?</h4>
 <ol type="a">
   <li>Submit an intake form</li>
   <li>Subscribe to a premium plan</li>
@@ -758,7 +758,7 @@
   <p>Submit an intake form</p>
 </details>
 
-<h5>10. You</h5>
+<h4>10. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
