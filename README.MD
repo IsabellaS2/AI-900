@@ -176,7 +176,30 @@
   <p>Create a Face resource, and open Vision Studio</p>
 </details>
 
-<h4>14. You</h4>
+<h4>17. You want to extract text from images and then use Azure AI Language to analyze the text. You want developers to require only one key and endpoint to access all of your services. What kind of resource should you create in your Azure subscription? 
+</h4>
+<ol type="a">
+  <li>Azure AI Vision</li>
+  <li>Azure AI services</li>
+  <li>Azure AI Language</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI services</p>
+</details>
+
+<h4>18. You plan to use Azure AI Vision's Read API. What results can the Read API provide?</h4>
+<ol type="a">
+  <li>Results arranged in pages, lines, and words</li>
+  <li>Only the bounding box coordinates</li>
+  <li>Results arranged by pages that have photographs first, then pages that exclusively have text</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Results arranged in pages, lines, and words</p>
+</details>
+
+<h4>19. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -186,7 +209,6 @@
   <summary>Show Answer</summary>
   <p>Regression</p>
 </details>
-
 <h1>My Questions</h1>
 <h4>These are multiple choice questions I made up based on my notes to help me study</h4>
 <h2>Fundamental AI Concepts</h2>
@@ -202,6 +224,7 @@
   <summary>Show Answer</summary>
   <p>Software that imitates human behaviors and capabilities</p>
 </details>
+
 <h4>2. What are the key workloads in AI?</h4>
 <ol type="a">
   <li>Data science</li>
@@ -213,6 +236,7 @@
   <summary>Show Answer</summary>
   <p>Machine learning, computer vision, natural language processing</p>
 </details>
+
 <h4>3. How do machines learn?</h4>
 <ol type="a">
   <li>By watching humans</li>
@@ -224,6 +248,7 @@
   <summary>Show Answer</summary>
   <p>Through data</p>
 </details>
+
 <h4>4. Where can you use computer vision solutions?</h4>
 <ol type="a">
   <li>In agriculture</li>
@@ -235,6 +260,7 @@
   <summary>Show Answer</summary>
   <p>In Microsoft Azure</p>
 </details>
+
 <h4>5. What area of AI deals with visual processing?</h4>
 <ol type="a">
   <li>Natural language processing</li>
@@ -246,6 +272,7 @@
   <summary>Show Answer</summary>
   <p>Computer vision</p>
 </details>
+
 <h4>6. What is image classification?</h4>
 <ol type="a">
   <li>A mechanism for visual perception</li>
@@ -767,4 +794,113 @@
 <details>
   <summary>Show Answer</summary>
   <p>Regression</p>
+</details>
+
+<h2>Fundamentals of Optical Character Recognition<h2/>
+<h4>1. What is OCR?</h4>
+<ol type="a">
+  <li>Optical Character Rendering</li>
+  <li>Object Character Recognition</li>
+  <li>Optical Character Recognition</li>
+  <li>Object Code Recognition</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Optical Character Recognition</p>
+</details>
+
+<h4>2. Which of the following is NOT mentioned as a potential use of OCR?</h4>
+<ol type="a">
+  <li>Digitizing medical records</li>
+  <li>Scanning checks for bank deposits</li>
+  <li>Analyzing satellite images</li>
+  <li>Note-taking</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Analyzing satellite images</p>
+</details>
+
+<h4>3. What is the purpose of Azure AI Vision's Read API?</h4>
+<ol type="a">
+  <li>Extract machine-readable text from images, PDFs, and TIFF files</li>
+  <li>Analyze sentiment in text data</li>
+  <li>Detect objects in images</li>
+  <li>Generate synthetic images</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Extract machine-readable text from images, PDFs, and TIFF files</p>
+</details>
+
+<h4>4. Which of the following is NOT a way to use Azure AI Vision's Read API?</h4>
+<ol type="a">
+  <li>Vision Studio</li>
+  <li>REST API</li>
+  <li>GraphQL</li>
+  <li>Software Development Kits (SDKs)</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>GraphQL</p>
+</details>
+
+<h4>5. What is the primary function of Vision Studio in Azure AI Vision?</h4>
+<ol type="a">
+  <li>Writing code to interact with Azure AI Vision services</li>
+  <li>Providing a graphical interface to access Azure AI Vision APIs</li>
+  <li>Analyzing data from OCR results</li>
+  <li>Training machine learning models</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Providing a graphical interface to access Azure AI Vision APIs</p>
+</details>
+
+<h4>6. Which resource type in Azure subscription allows access to multiple Azure AI services with one key and endpoint?</h4>
+<ol type="a">
+  <li>Azure AI Vision</li>
+  <li>Azure AI services</li>
+  <li>Azure AI Language</li>
+  <li>Azure AI Compute</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI services</p>
+</details>
+
+<h4>7. What hierarchy is used to organize the results returned by the Azure AI Vision's OCR engine?</h4>
+<ol type="a">
+  <li>Pages -> Text blocks -> Words</li>
+  <li>Pages -> Lines -> Words</li>
+  <li>Pages -> Paragraphs -> Sentences</li>
+  <li>Pages -> Regions -> Text blocks</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Pages -> Lines -> Words</p>
+</details>
+
+<h4>8. What is the main benefit of automating text processing with OCR?</h4>
+<ol type="a">
+  <li>Reducing the need for manual data entry</li>
+  <li>Increasing hardware efficiency</li>
+  <li>Improving network security</li>
+  <li>Accelerating graphic rendering</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Reducing the need for manual data entry</p>
+</details>
+
+<h4>9. In OCR, what are bounding boxes used for?</h4>
+<ol type="a">
+  <li>Marking areas of text in an image</li>
+  <li>Highlighting areas of interest in an image</li>
+  <li>Identifying specific objects in an image</li>
+  <li>Measuring the aspect ratio of an image</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Marking areas of text in an image</p>
 </details>
