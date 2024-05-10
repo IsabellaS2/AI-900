@@ -254,7 +254,40 @@
   <p>Question Answering</p>
 </details>
 
-<h4>22. You</h4>
+<h4>24. You need to provision an Azure resource that will be used to author a new conversational language understanding application. What kind of resource should you create? </h4>
+<ol type="a">
+  <li>Azure AI Speech</li>
+  <li>Azure AI Language</li>
+  <li>Azure AI services</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI Language</p>
+</details>
+
+<h4>25. You are authoring a conversational language understanding application to support an international clock. You want users to be able to ask for the current time in a specified city, for example "What is the time in London?". What should you do?</h4>
+<ol type="a">
+  <li>Define a "city" entity and a "GetTime" intent with utterances that indicate the city entity.</li>
+  <li>Create an intent for each city, each with an utterance that asks for the time in that city.</li>
+  <li>Add the utterance "What time is it in city" to the "None" intent.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Define a "city" entity and a "GetTime" intent with utterances that indicate the city entity.</p>
+</details>
+
+<h4>26. You have published your conversational language understanding application. What information does a client application developer need to get predictions from it?</h4>
+<ol type="a">
+  <li>The endpoint and key for the application's prediction resource</li>
+  <li>The endpoint and key for the application's authoring resource</li>
+  <li>The Azure credentials of the user who published the language understanding application</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The endpoint and key for the application's prediction resource</p>
+</details>
+
+<h4>27. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -264,6 +297,9 @@
   <summary>Show Answer</summary>
   <p>Regression</p>
 </details>
+
+
+
 
 
 
@@ -1151,4 +1187,65 @@
 <details>
   <summary>Show Answer</summary>
   <p>Regression</p>
+</details>
+
+<h2>Fundamentals of question answering with the Language Service</h2>
+<h4>1. What is an utterance in conversational language understanding?</h4>
+<ol type="a">
+  <li>An example of something a user might say that the application must interpret</li>
+  <li>A method for training language models</li>
+  <li>A technique to encrypt communication channels</li>
+  <li>A type of Azure resource</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>An example of something a user might say that the application must interpret</p>
+</details>
+
+<h4>2. What is an entity in conversational language understanding?</h4>
+<ol type="a">
+  <li>A pre-defined intent for common scenarios</li>
+  <li>An item to which an utterance refers</li>
+  <li>A method for connecting client applications to prediction resources</li>
+  <li>A natural language expression that a user might say</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>An item to which an utterance refers</p>
+</details>
+
+<h4>3. What is an intent in conversational language understanding?</h4>
+<ol type="a">
+  <li>A specific instance of a general device entity</li>
+  <li>The purpose or goal expressed in a user's utterance</li>
+  <li>A resource for training language models</li>
+  <li>A type of pre-built domain</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The purpose or goal expressed in a user's utterance</p>
+</details>
+
+<h4>4. What is the None intent used for in conversational language understanding?</h4>
+<ol type="a">
+  <li>To handle utterances that do not match any other intent</li>
+  <li>To define pre-built intents for common scenarios</li>
+  <li>To train language models</li>
+  <li>To create entities for utterances</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To handle utterances that do not match any other intent</p>
+</details>
+
+<h4>5. What is the purpose of authoring a model in conversational language understanding?</h4>
+<ol type="a">
+  <li>To generate random sample utterances</li>
+  <li>To define entities, intents, and utterances for training</li>
+  <li>To connect client applications to prediction resources</li>
+  <li>To publish language models for client consumption</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To define entities, intents, and utterances for training</p>
 </details>
