@@ -199,7 +199,40 @@
   <p>Results arranged in pages, lines, and words</p>
 </details>
 
-<h4>19. You</h4>
+<h4>19. You want to use Azure AI Language to determine the key talking points in a text document. Which feature of the service should you use?</h4>
+<ol type="a">
+  <li>Sentiment analysis</li>
+  <li>Key phrase extraction</li>
+  <li>Entity detection</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Key phrase extraction</p>
+</details>
+
+<h4>20. You use Azure AI Language to perform sentiment analysis on a sentence. The confidence scores .04 positive, .36 neutral, and .60 negative are returned. What do these confidence scores indicate about the sentence sentiment?</h4>
+<ol type="a">
+  <li>The document is positive.</li>
+  <li>The document is neutral.</li>
+  <li>The document is negative.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The document is negative.</p>
+</details>
+
+<h4>21. When might you see NaN returned for a score in language detection?</h4>
+<ol type="a">
+  <li>When the score calculated by the service is outside the range of 0 to 1</li>
+  <li>When the predominant language in the text is mixed with other languages</li>
+  <li>When the language is ambiguous</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>When the language is ambiguous</p>
+</details>
+
+<h4>22. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -209,6 +242,7 @@
   <summary>Show Answer</summary>
   <p>Regression</p>
 </details>
+
 <h1>My Questions</h1>
 <h4>These are multiple choice questions I made up based on my notes to help me study</h4>
 <h2>Fundamental AI Concepts</h2>
@@ -903,4 +937,125 @@
 <details>
   <summary>Show Answer</summary>
   <p>Marking areas of text in an image</p>
+</details>
+
+<h2>Fundamentals of Text Analysis with the Language Service</h2>
+<h4>1. What is the purpose of natural language processing (NLP) in computer systems?</h4>
+<ol type="a">
+  <li>To interpret the subject of text in a way similar to humans</li>
+  <li>To encrypt text for secure transmission</li>
+  <li>To compress text files for storage efficiency</li>
+  <li>To convert text to speech</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To interpret the subject of text in a way similar to humans</p>
+</details>
+
+<h4>2. Which of the following is an example of a use case for natural language processing (NLP)?</h4>
+<ol type="a">
+  <li>Generating random text strings</li>
+  <li>Analyzing satellite images</li>
+  <li>Creating a social media sentiment analyzer</li>
+  <li>Converting images to PDFs</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Creating a social media sentiment analyzer</p>
+</details>
+
+<h4>3. What is tokenization in the context of text analysis?</h4>
+<ol type="a">
+  <li>Breaking down a text into distinct words or phrases</li>
+  <li>Encrypting text for secure transmission</li>
+  <li>Converting text to speech</li>
+  <li>Analyzing the frequency of words in a text</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Breaking down a text into distinct words or phrases</p>
+</details>
+
+<h4>4. Which of the following techniques is used to determine the most commonly used words in a document?</h4>
+<ol type="a">
+  <li>Tokenization</li>
+  <li>Stemming</li>
+  <li>Frequency analysis</li>
+  <li>Entity recognition</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Frequency analysis</p>
+</details>
+
+<h4>5. What is the purpose of entity recognition in text analysis?</h4>
+<ol type="a">
+  <li>To break down text into distinct words or phrases</li>
+  <li>To detect the language of a text</li>
+  <li>To identify people, places, events, and more in text</li>
+  <li>To summarize the main points of a document</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To identify people, places, events, and more in text</p>
+</details>
+
+<h4>6. Which Azure resource type should you choose if you want to manage access and billing for Azure AI Language services separately from other services?</h4>
+<ol type="a">
+  <li>Azure AI Vision</li>
+  <li>Language resource</li>
+  <li>Azure AI services resource</li>
+  <li>Azure Compute</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Language resource</p>
+</details>
+
+<h4>7. What is the purpose of sentiment analysis in text analytics?</h4>
+<ol type="a">
+  <li>To identify people, places, events, and more in text</li>
+  <li>To break down text into distinct words or phrases</li>
+  <li>To detect positive, negative, or neutral sentiments in text</li>
+  <li>To summarize the main points of a document</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To detect positive, negative, or neutral sentiments in text</p>
+</details>
+
+<h4>8. What does the language detection capability of Azure AI Language identify?</h4>
+<ol type="a">
+  <li>The sentiment of a text</li>
+  <li>The language of a text</li>
+  <li>The main points of a document</li>
+  <li>The entities in a text</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The language of a text</p>
+</details>
+
+<h4>9. What is key phrase extraction used for in text analysis?</h4>
+<ol type="a">
+  <li>To encrypt text for secure transmission</li>
+  <li>To detect the language of a text</li>
+  <li>To identify the main points or concepts in a document</li>
+  <li>To summarize the main points of a document</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To identify the main points or concepts in a document</p>
+</details>
+
+<h4>10. What common natural language processing task is supported by language models?</h4>
+<ol type="a">
+  <li>Image recognition</li>
+  <li>Sentiment analysis</li>
+  <li>Video processing</li>
+  <li>Audio transcription</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Sentiment analysis</p>
 </details>
