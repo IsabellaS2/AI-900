@@ -232,6 +232,28 @@
   <p>When the language is ambiguous</p>
 </details>
 
+<h4>22. Your organization has an existing frequently asked questions (FAQ) document. You need to create a knowledge base that includes the questions and answers from the FAQ with the least possible effort. What should you do? </h4>
+<ol type="a">
+  <li>Create an empty knowledge base, and then manually copy and paste the FAQ entries into it.</li>
+  <li>Import the existing FAQ document into a new knowledge base.</li>
+  <li>Import a pre-defined chit-chat data source.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Import the existing FAQ document into a new knowledge base.</p>
+</details>
+
+<h4>23. You want to create a knowledge base for your organization’s bot service. Which Azure AI service is best suited to creating a knowledge base?</h4>
+<ol type="a">
+  <li>Conversational Language Understanding</li>
+  <li>Question Answering</li>
+  <li>Optical Character Recognition</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Question Answering</p>
+</details>
+
 <h4>22. You</h4>
 <ol type="a">
   <li>Regression</li>
@@ -242,6 +264,15 @@
   <summary>Show Answer</summary>
   <p>Regression</p>
 </details>
+
+
+
+
+
+
+
+
+
 
 <h1>My Questions</h1>
 <h4>These are multiple choice questions I made up based on my notes to help me study</h4>
@@ -819,16 +850,6 @@
   <p>Submit an intake form</p>
 </details>
 
-<h4>10. You</h4>
-<ol type="a">
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
-</ol>
-<details>
-  <summary>Show Answer</summary>
-  <p>Regression</p>
-</details>
 
 <h2>Fundamentals of Optical Character Recognition<h2/>
 <h4>1. What is OCR?</h4>
@@ -1058,4 +1079,76 @@
 <details>
   <summary>Show Answer</summary>
   <p>Sentiment analysis</p>
+</details>
+
+<h2>Fundamentals of question answering with the Language Service</h2>
+<h4>1. What is conversational AI?</h4>
+<ol type="a">
+  <li>A solution that enables dialogue between an AI agent and a human</li>
+  <li>A technique to encrypt communication between computers</li>
+  <li>A method for compressing large text files</li>
+  <li>An approach to convert speech into text</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A solution that enables dialogue between an AI agent and a human</p>
+</details>
+
+<h4>2. What is the purpose of question answering in conversational AI?</h4>
+<ol type="a">
+  <li>To generate random questions</li>
+  <li>To provide automated responses to customer queries</li>
+  <li>To encrypt communication channels</li>
+  <li>To compress large text files</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To provide automated responses to customer queries</p>
+</details>
+
+<h4>3. Which services are involved in creating a user support bot solution on Microsoft Azure?</h4>
+<ol type="a">
+  <li>Azure AI Computer Vision and Azure Speech Services</li>
+  <li>Azure AI Language and Azure AI Bot Service</li>
+  <li>Azure Compute and Azure IoT Hub</li>
+  <li>Azure Machine Learning and Azure Cognitive Search</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI Language and Azure AI Bot Service</p>
+</details>
+
+<h4>4. What is the first step in creating a project for custom question answering?</h4>
+<ol type="a">
+  <li>Define questions and answers</li>
+  <li>Provision a Language resource in Azure</li>
+  <li>Test the project</li>
+  <li>Build a bot with Azure AI Bot Service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Provision a Language resource in Azure</p>
+</details>
+
+<h4>5. What is the purpose of connecting channels in a bot application?</h4>
+<ol type="a">
+  <li>To encrypt communication between the bot and users</li>
+  <li>To establish a secure connection with the Azure AI Bot Service</li>
+  <li>To enable users to interact with the bot through various communication media</li>
+  <li>To compress large text files for efficient transmission</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To enable users to interact with the bot through various communication media</p>
+</details>
+
+<h4>10. You</h4>
+<ol type="a">
+  <li>Regression</li>
+  <li>Classification</li>
+  <li>Clustering</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression</p>
 </details>
