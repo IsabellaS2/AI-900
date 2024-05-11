@@ -287,7 +287,152 @@
   <p>The endpoint and key for the application's prediction resource</p>
 </details>
 
-<h4>27. You</h4>
+<h4>27. You plan to build an application that uses Azure AI Speech to transcribe audio recordings of phone calls into text, and then submit the transcribed text to Azure AI Language to extract key phrases. You want to manage access and billing for the application services with a single Azure resource. Which type of Azure resource should you create? 
+</h4>
+<ol type="a">
+  <li>Speech</li>
+  <li>Language</li>
+  <li>Azure AI services</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI services</p>
+</details>
+
+<h4>27. You want to use Azure AI Speech service to build an application that reads incoming email message subjects aloud. Which API should you use?</h4>
+<ol type="a">
+  <li>Speech to text</li>
+  <li>Text to speech</li>
+  <li>Translator</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Text to speech</p>
+</details>
+
+<h4>28. You plan to use Azure AI Document Intelligence's prebuilt receipt model. Which kind of Azure resource should you create?</h4>
+<ol type="a">
+  <li>Azure AI Vision resource</li>
+  <li>Azure AI Document Intelligence or Azure AI services resource.</li>
+  <li>Azure AI Language resource.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI Document Intelligence or Azure AI services resource.</p>
+</details>
+
+<h4>29. You are using the Azure AI Document Intelligence service to analyze receipts. Which field types does the service recognise?</h4>
+<ol type="a">
+  <li>Merchant retail type.</li>
+  <li>Merchant name and address.</li>
+  <li>Merchant name and date of incorporation.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression</p>
+</details>
+
+<h4>30. What is required to use the receipt analyzer service in Azure AI Document Intelligence?</h4>
+<ol type="a">
+  <li>Train the model on sample receipts from your organisation.</li>
+  <li>Create an Azure AI Document Intelligence resource.</li>
+  <li>Nothing - receipt analyzer is available once you create an Azure subscription.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Create an Azure AI Document Intelligence resource.</p>
+</details>
+
+<h4>31. Which data format is accepted by Azure AI Search when you're pushing data to the index?</h4>
+<ol type="a">
+  <li>CSV</li>
+  <li>SQL</li>
+  <li>JSON</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression</p>
+</details>
+
+<h4>32. Which explanation best describes an indexer and an index?</h4>
+<ol type="a">
+  <li>An indexer converts documents into JSON and forwards them to a search engine for indexing.</li>
+  <li>An indexer can be used instead of an index if the files are already in the proper format.</li>
+  <li>An indexer is only used for AI enrichment and skillset execution.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>An indexer converts documents into JSON and forwards them to a search engine for indexing.</p>
+</details>
+
+<h4>33. If you set up a search index without including a skillset, which would you still be able to query? </h4>
+<ol type="a">
+  <li>Sentiment</li>
+  <li>Text content</li>
+  <li>Image captions</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Text content</p>
+</details>
+
+<h4>34. What are Large Language Models?</h4>
+<ol type="a">
+  <li>Models that only work with one language.</li>
+  <li>Models that only work with small amounts of data.</li>
+  <li>Models that use deep learning to process and understand natural language on a massive scale.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Models that use deep learning to process and understand natural language on a massive scale.</p>
+</details>
+
+<h4>35. What is an example of a potential task a generative AI application can help solve?</h4>
+<ol type="a">
+  <li>Monitoring the temperature in a manufacturing facility.</li>
+  <li>Creating a draft for an email.</li>
+  <li>Collecting real time data and storing it in a database.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Creating a draft for an email.</p>
+</details>
+
+<h4>36. What is the purpose of vector-based embeddings?</h4>
+<ol type="a">
+  <li>To represent semantic meaning of text tokens.</li>
+  <li>To create tokens that include multiple representations of a word in different languages.</li>
+  <li>To correct misspellings in the training data.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To represent semantic meaning of text tokens.</p>
+</details>
+
+<h4>37. What is the potential impact of copilots?</h4>
+<ol type="a">
+  <li>Copilots only impact applications used in professional settings.</li>
+  <li>Copilots can help with first drafts, information synthesis, strategic planning, and much more.</li>
+  <li>Copilots can only be used for certain natural language tasks like summarizing text.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Copilots can help with first drafts, information synthesis, strategic planning, and much more.</p>
+</details>
+
+<h4>39. Which assumption of the multiple linear regression model should be satisfied to avoid misleading predictions?</h4>
+<ol type="a">
+  <li>Features are dependent on each other.</li>
+  <li>Features are independent of each other.</li>
+  <li>Labels are dependent on each other.</li>
+  <li>Labels are independent of each other.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Features are independent of each other.</p>
+</details>
+
+<h4>40. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -297,13 +442,6 @@
   <summary>Show Answer</summary>
   <p>Regression</p>
 </details>
-
-
-
-
-
-
-
 
 
 
@@ -886,7 +1024,6 @@
   <p>Submit an intake form</p>
 </details>
 
-
 <h2>Fundamentals of Optical Character Recognition<h2/>
 <h4>1. What is OCR?</h4>
 <ol type="a">
@@ -1178,17 +1315,6 @@
   <p>To enable users to interact with the bot through various communication media</p>
 </details>
 
-<h4>10. You</h4>
-<ol type="a">
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
-</ol>
-<details>
-  <summary>Show Answer</summary>
-  <p>Regression</p>
-</details>
-
 <h2>Fundamentals of question answering with the Language Service</h2>
 <h4>1. What is an utterance in conversational language understanding?</h4>
 <ol type="a">
@@ -1248,4 +1374,370 @@
 <details>
   <summary>Show Answer</summary>
   <p>To define entities, intents, and utterances for training</p>
+
+<h2>Fundamentals of Azure AI Speech</h2>
 </details>
+<h4>1. What are the two primary capabilities supported by AI speech systems?</h4>
+<ol type="a">
+  <li>Speech recognition and transcription</li>
+  <li>Speech synthesis and natural language processing</li>
+  <li>Speech recognition and synthesis</li>
+  <li>Speech analysis and sentiment detection</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Speech recognition and synthesis</p>
+</details>
+
+<h4>2. What is the purpose of speech recognition in AI systems?</h4>
+<ol type="a">
+  <li>To convert text to speech</li>
+  <li>To detect and interpret spoken input</li>
+  <li>To analyze sentiment in spoken conversations</li>
+  <li>To generate captions for audio files</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To detect and interpret spoken input</p>
+</details>
+
+<h4>3. Which models are typically used in speech recognition?</h4>
+<ol type="a">
+  <li>Phonetic and grammatical models</li>
+  <li>Acoustic and language models</li>
+  <li>Syntax and semantic models</li>
+  <li>Feature extraction and classification models</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Acoustic and language models</p>
+</details>
+
+<h4>4. What is the main purpose of speech synthesis?</h4>
+<ol type="a">
+  <li>To detect spoken patterns in audio files</li>
+  <li>To generate phonetic transcriptions</li>
+  <li>To convert text to spoken output</li>
+  <li>To analyze prosodic features in speech</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To convert text to spoken output</p>
+</details>
+
+<h4>5. Which Azure resource type is required to use Azure AI Speech service?</h4>
+<ol type="a">
+  <li>Azure Compute</li>
+  <li>Azure Storage</li>
+  <li>Azure AI services</li>
+  <li>Azure Networking</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Azure AI services</p>
+</details>
+
+<h2>Fundamentals of Azure AI Document Intelligence</h2>
+<h4>1. What is the main purpose of document intelligence?</h4>
+<ol type="a">
+  <li>To create documents</li>
+  <li>To process text and extract information from documents</li>
+  <li>To share documents</li>
+  <li>To archive documents</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To process text and extract information from documents</p>
+</details>
+
+<h4>2. How does document intelligence automate the process of extracting data from receipts?</h4>
+<ol type="a">
+  <li>By manually entering data into a database</li>
+  <li>By converting scanned images of receipts into text using OCR</li>
+  <li>By outsourcing the task to human workers</li>
+  <li>By printing receipts on heat-sensitive paper</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>By converting scanned images of receipts into text using OCR</p>
+</details>
+
+<h4>3. What are the two types of models supported by Azure AI Document Intelligence?</h4>
+<ol type="a">
+  <li>Simple and complex models</li>
+  <li>Prebuilt and custom models</li>
+  <li>Online and offline models</li>
+  <li>Static and dynamic models</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Prebuilt and custom models</p>
+</details>
+
+<h4>4. What kind of information can prebuilt models in Azure AI Document Intelligence extract from invoices?</h4>
+<ol type="a">
+  <li>Only customer names</li>
+  <li>Only transaction details</li>
+  <li>Only sales details</li>
+  <li>Customer and vendor details, sales and transaction details, and more</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Customer and vendor details, sales and transaction details, and more</p>
+</details>
+
+<h4>5. What is the main advantage of using the prebuilt receipt model in Azure AI Document Intelligence?</h4>
+<ol type="a">
+  <li>It can process images only in JPEG format</li>
+  <li>It can process images of any format and size</li>
+  <li>It can process only one receipt type</li>
+  <li>It can recognize data on various receipt types with different languages and formats</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>It can recognize data on various receipt types with different languages and formats</p>
+</details>
+
+<h2>Fundamentals of Knowledge Mining and Azure AI Search</h2>
+<h4>1. What is the primary purpose of knowledge mining solutions like Azure AI Search?</h4>
+<ol type="a">
+  <li>To manually read through documents</li>
+  <li>To automatically extract information from unstructured data</li>
+  <li>To organize documents in a file system</li>
+  <li>To create documents</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To automatically extract information from unstructured data</p>
+</details>
+
+<h4>2. What is one of the features of Azure AI Search's AI-powered search capabilities?</h4>
+<ol type="a">
+  <li>Support for only one language</li>
+  <li>Integration with Office 365 only</li>
+  <li>Support for image and text analysis</li>
+  <li>Restricted to cloud assets only</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Support for image and text analysis</p>
+</details>
+
+<h4>3. How does Azure AI Search enable data ingestion from various sources?</h4>
+<ol type="a">
+  <li>By restricting data sources to Azure databases only</li>
+  <li>By providing built-in connectors for data ingestion</li>
+  <li>By allowing only JSON format data</li>
+  <li>By requiring manual data entry</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>By providing built-in connectors for data ingestion</p>
+</details>
+
+<h4>4. What is the purpose of a skillset in Azure AI Search?</h4>
+<ol type="a">
+  <li>To define search queries</li>
+  <li>To store search results</li>
+  <li>To automate data ingestion</li>
+  <li>To apply a sequence of AI skills to enrich data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To apply a sequence of AI skills to enrich data</p>
+</details>
+
+<h4>5. How are Azure AI Search indexes structured?</h4>
+<ol type="a">
+  <li>As rows in a database</li>
+  <li>As JSON documents</li>
+  <li>As tables in a file system</li>
+  <li>As columns in a spreadsheet</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>As JSON documents</p>
+</details>
+
+<h4>6. What are the two approaches provided by Azure AI Search to create and load JSON documents into an index?</h4>
+<ol type="a">
+  <li>Push method and Pull method</li>
+  <li>Export method and Import method</li>
+  <li>REST API method and SDK method</li>
+  <li>Source method and Target method</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Push method and Pull method</p>
+</details>
+
+<h4>7. Which method does Azure AI Search use to pull data from external Azure data sources and populate a search index?</h4>
+<ol type="a">
+  <li>Push method</li>
+  <li>REST API method</li>
+  <li>Pull method</li>
+  <li>Import method</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Pull method</p>
+</details>
+
+<h4>8. How can you monitor the progress of loading new documents into an index?</h4>
+<ol type="a">
+  <li>By checking the Azure AI Search dashboard</li>
+  <li>By monitoring the associated indexer</li>
+  <li>By using the Search explorer tool</li>
+  <li>All of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>All of the above</p>
+</details>
+
+<h4>9. What is the purpose of a knowledge store in Azure AI Search?</h4>
+<ol type="a">
+  <li>To persist connection information to source data</li>
+  <li>To store enriched content generated from AI skillsets</li>
+  <li>To create a physical data structure for full text search</li>
+  <li>To manage components of the Azure AI Search resource</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To store enriched content generated from AI skillsets</p>
+</details>
+
+<h4>10. What is the default search syntax for queries in Azure AI Search?</h4>
+<ol type="a">
+  <li>Simple query syntax</li>
+  <li>Full Lucene query syntax</li>
+  <li>Advanced query syntax</li>
+  <li>Complex query syntax</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Simple query syntax</p>
+</details>
+
+<h2>Fundamentals of Generative AI</h2>
+<h4>1. What is generative AI?</h4>
+<ol type="a">
+  <li>AI that imitates human behavior using predefined instructions</li>
+  <li>AI that interacts with the environment without explicit directions</li>
+  <li>AI that generates original content</li>
+  <li>AI that analyzes existing data and makes predictions</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>AI that generates original content</p>
+</details>
+
+<h4>2. Which of the following is an example of generative AI application?</h4>
+<ol type="a">
+  <li>Weather forecasting</li>
+  <li>Stock market analysis</li>
+  <li>ChatGPT, a chatbot</li>
+  <li>Medical diagnosis</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>ChatGPT, a chatbot</p>
+</details>
+
+<h4>3. What types of responses can generative AI applications provide?</h4>
+<ol type="a">
+  <li>Text only</li>
+  <li>Text, images, and code</li>
+  <li>Images only</li>
+  <li>Code only</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Text, images, and code</p>
+</details>
+
+<h4>4. What is the purpose of tokenization in transformer models?</h4>
+<ol type="a">
+  <li>To create natural language responses</li>
+  <li>To decompose training text into tokens</li>
+  <li>To generate embeddings for tokens</li>
+  <li>To calculate attention scores</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To decompose training text into tokens</p>
+</details>
+
+<h4>5. What is the role of attention layers in transformer models?</h4>
+<ol type="a">
+  <li>To predict the next token in a sequence</li>
+  <li>To evaluate the semantic relationships between tokens</li>
+  <li>To decompose training text into tokens</li>
+  <li>To generate embeddings for tokens</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To evaluate the semantic relationships between tokens</p>
+</details>
+
+<h4>6. What is Azure OpenAI Service?</h4>
+<ol type="a">
+  <li>Microsoft's cloud solution for deploying, customizing, and hosting large language models</li>
+  <li>A platform for weather forecasting</li>
+  <li>An API for stock market analysis</li>
+  <li>A medical diagnosis tool</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Microsoft's cloud solution for deploying, customizing, and hosting large language models</p>
+</details>
+
+<h4>7. What can developers do with Azure OpenAI Studio?</h4>
+<ol type="a">
+  <li>Deploy large language models and provide few-shot examples</li>
+  <li>Build and deploy weather forecasting models</li>
+  <li>Train medical diagnosis models</li>
+  <li>Analyze stock market trends</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Deploy large language models and provide few-shot examples</p>
+</details>
+
+<h4>8. What are copilots?</h4>
+<ol type="a">
+  <li>Large language models for generating code</li>
+  <li>AI assistants that help users with common tasks</li>
+  <li>Models specifically designed for medical diagnosis</li>
+  <li>Tools for weather forecasting</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>AI assistants that help users with common tasks</p>
+</details>
+
+<h4>9. What is prompt engineering?</h4>
+<ol type="a">
+  <li>The process of designing user interfaces</li>
+  <li>The process of improving the quality of responses from generative AI by refining prompts</li>
+  <li>The process of optimizing search engine algorithms</li>
+  <li>The process of training machine learning models</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The process of improving the quality of responses from generative AI by refining prompts</p>
+</details>
+
+<h4>10. How can developers improve the quality of responses from generative AI?</h4>
+<ol type="a">
+  <li>By using complex prompts</li>
+  <li>By providing examples and grounding data in prompts</li>
+  <li>By increasing the size of the model</li>
+  <li>By reducing the amount of training data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>By providing examples and grounding data in prompts</p>
+</details>
+
+<h2>Fundamentals of Responsible Generative AI</h2>
