@@ -432,7 +432,40 @@
   <p>Features are independent of each other.</p>
 </details>
 
-<h4>40. You</h4>
+<h4>40. How are ChatGPT, OpenAI, and Azure OpenAI related? </h4>
+<ol type="a">
+  <li>Azure OpenAI is Microsoft's version of ChatGPT, a chatbot that uses generative AI models.</li>
+  <li>ChatGPT and OpenAI are chatbots that generate natural language, code, and images. Azure OpenAI provides access to these two chatbots.</li>
+  <li>OpenAI is a research company that developed ChatGPT, a chatbot that uses generative AI models. Azure OpenAI provides access to many of OpenAI's AI models</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>OpenAI is a research company that developed ChatGPT, a chatbot that uses generative AI models. Azure OpenAI provides access to many of OpenAI's AI models</p>
+</details>
+
+<h4>41. You would like to summarise a paragraph of text. Which generative AI model family would you use to solve for this workload? </h4>
+<ol type="a">
+  <li>GPT</li>
+  <li>Codex</li>
+  <li>Dall-E.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>GPT</p>
+</details>
+
+<h4>42. What is one action Microsoft takes to support ethical AI practices in Azure OpenAI? </h4>
+<ol type="a">
+  <li>Provides Transparency Notes that share how technology is built and asks users to consider its implications.</li>
+  <li>Logs users out of Azure OpenAI Studio after a period of inactivity to ensure it's only used by one user.</li>
+  <li>Allows users to build any application, regardless of harmful effects, to ensure fairness.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Provides Transparency Notes that share how technology is built and asks users to consider its implications.</p>
+</details>
+
+<h4>43. You</h4>
 <ol type="a">
   <li>Regression</li>
   <li>Classification</li>
@@ -1738,6 +1771,91 @@
 <details>
   <summary>Show Answer</summary>
   <p>By providing examples and grounding data in prompts</p>
+</details>
+
+<h2>Fundamentals of Azure OpenAI Service</h2>
+<h4>1. What are the main goals of the partnership between Microsoft and OpenAI?</h4>
+<ol type="a">
+  <li>To utilize Azure's infrastructure, including security, compliance, and regional availability, to help users build enterprise-grade applications.</li>
+  <li> To deploy OpenAI AI model capabilities across Microsoft products, including and beyond Azure AI products.</li>
+  <li>To use Azure to power all of OpenAI's workloads.</li>
+  <li>All of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>All of the above</p>
+</details>
+
+<h4>2. What are GPT models proficient in?</h4>
+<ol type="a">
+  <li>Understanding and creating natural language</li>
+  <li>Generating images</li>
+  <li>Translating code from one programming language into another</li>
+  <li>None of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Understanding and creating natural language</p>
+</details>
+
+<h4>3. What is one way to access Azure OpenAI Service?</h4>
+<ol type="a">
+  <li>By registering for limited access</li>
+  <li>By downloading the Azure OpenAI Studio app</li>
+  <li>By purchasing a subscription from the Microsoft Store</li>
+  <li>All of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>By registering for limited access</p>
+</details>
+
+<h4>4. How can Azure OpenAI help developers code faster?</h4>
+<ol type="a">
+  <li>By providing code suggestions and completions</li>
+  <li>By automatically debugging code</li>
+  <li>By generating entire software applications</li>
+  <li>None of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>By providing code suggestions and completions</p>
+</details>
+
+<h4>5. What is the significance of Azure OpenAI's enterprise-grade security features?</h4>
+<ol type="a">
+  <li>They ensure that only Microsoft employees can access the service</li>
+  <li>They protect users' AI models and data</li>
+  <li>They prioritize speed over security</li>
+  <li>They limit the functionality of the AI models</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>They protect users' AI models and data</p>
+</details>
+
+<h4>6. How does Azure OpenAI contribute to responsible AI use?</h4>
+<ol type="a">
+  <li>By allowing users to build any application without restrictions</li>
+  <li>By providing tools to detect and mitigate harmful use cases</li>
+  <li>By promoting biased decision-making</li>
+  <li>None of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>By providing tools to detect and mitigate harmful use cases</p>
+</details>
+
+<h4>7. What is the purpose of Transparency Notes in Azure OpenAI?</h4>
+<ol type="a">
+  <li>To explain how to use the Azure OpenAI Studio app</li>
+  <li>To outline the terms of service for Azure OpenAI</li>
+  <li>To share information about how the technology is built and its implications</li>
+  <li>None of the above</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To share information about how the technology is built and its implications</p>
 </details>
 
 <h2>Fundamentals of Responsible Generative AI</h2>
