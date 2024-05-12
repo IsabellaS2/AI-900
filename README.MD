@@ -465,16 +465,57 @@
   <p>Provides Transparency Notes that share how technology is built and asks users to consider its implications.</p>
 </details>
 
-<h4>43. You</h4>
+<h4>43. Why should you consider creating an AI Impact Assessment when designing a generative AI solution?</h4>
 <ol type="a">
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
+  <li>To make a legal case that indemnifies you from responsibility for harms caused by the solution</li>
+  <li>To document the purpose, expected use, and potential harms for the solution</li>
+  <li>To evaluate the cost of cloud services required to implement your solution</li>
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Regression</p>
+  <p>To document the purpose, expected use, and potential harms for the solution</p>
 </details>
+
+<h4>44. What capability of Azure OpenAI Service helps mitigate harmful content generation at the Safety System level?</h4>
+<ol type="a">
+  <li>DALL-E model support</li>
+  <li>Fine-tuning</li>
+  <li>Content filters</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Content filters</p>
+</details>
+
+<h4>45. Why should you consider a phased delivery plan for your generative AI solution?</h4>
+<ol type="a">
+  <li>To enable you to gather feedback and identify issues before releasing the solution more broadly</li>
+  <li>To eliminate the need to identify, measure, and mitigate potential harms</li>
+  <li>To enable you to charge more for the solution</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To enable you to gather feedback and identify issues before releasing the solution more broadly</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1859,3 +1900,79 @@
 </details>
 
 <h2>Fundamentals of Responsible Generative AI</h2>
+<h4>1. According to Microsoft's guidelines, what is the first stage in developing a responsible generative AI plan?</h4>
+<ol type="a">
+  <li>Identify potential harms</li>
+  <li>Measure potential harms</li>
+  <li>Mitigate potential harms</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Identify potential harms</p>
+</details>
+
+<h4>2. Which layer of a generative AI solution focuses on the construction of prompts submitted to the model?</h4>
+<ol type="a">
+  <li>The model layer</li>
+  <li>The safety system layer</li>
+  <li>The metaprompt and grounding layer</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The metaprompt and grounding layer</p>
+</details>
+
+<h4>3. What is the purpose of the "red team" testing mentioned in the responsible generative AI process?</h4>
+<ol type="a">
+  <li>To verify the presence of potential harms in the solution</li>
+  <li>To prioritize the identified harms</li>
+  <li>To test the robustness of the model layer</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To verify the presence of potential harms in the solution</p>
+</details>
+
+<h4>4. What is a recommended approach to measuring a system for potential harms?</h4>
+<ol type="a">
+  <li>Performing only manual testing to ensure accuracy</li>
+  <li>Using pre-defined criteria to evaluate the output</li>
+  <li>Applying harm categorization after the testing phase</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Using pre-defined criteria to evaluate the output</p>
+</details>
+
+<h4>5. What should be included in the documentation and descriptions of a generative AI solution?</h4>
+<ol type="a">
+  <li>Descriptions of the user interface design only</li>
+  <li>Information about the generative AI model used</li>
+  <li>Recommendations for system deployment</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Information about the generative AI model used</p>
+</details>
+
+<h4>6. What is the purpose of the safety system layer in a generative AI solution?</h4>
+<ol type="a">
+  <li>To fine-tune the generative AI model</li>
+  <li>To apply platform-level configurations and capabilities to mitigate harm</li>
+  <li>To design the user interface of the application</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>To apply platform-level configurations and capabilities to mitigate harm</p>
+</details>
+
+<h4>7. What is the significance of devising a phased delivery plan for releasing a generative AI solution?</h4>
+<ol type="a">
+  <li>It allows for rapid deployment without user feedback</li>
+  <li>It helps gather feedback and identify problems before a wider release</li>
+  <li>It ensures complete secrecy of the solution until full release</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>It helps gather feedback and identify problems before a wider release</p>
+</details>
