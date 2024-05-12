@@ -329,7 +329,7 @@
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Regression</p>
+  <p>Merchant name and address</p>
 </details>
 
 <h4>30. What is required to use the receipt analyzer service in Azure AI Document Intelligence?</h4>
