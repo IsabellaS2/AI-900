@@ -351,7 +351,7 @@
 </ol>
 <details>
   <summary>Show Answer</summary>
-  <p>Regression</p>
+  <p>JSON</p>
 </details>
 
 <h4>32. Which explanation best describes an indexer and an index?</h4>
