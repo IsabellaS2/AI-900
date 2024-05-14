@@ -1,3 +1,18 @@
+# Azure AI-900 Fundamentals Practice Questions
+Welcome to a comprehensive collection of practice questions designed to aid your preparation for the AI-900 exam, your gateway to understanding Azure fundamentals in artificial intelligence.
+
+## How to Utilise this Repository
+This repository is thoughtfully divided into two sections. The first section comprises practice questions provided by Microsoft within their training modules. The second section features additional questions curated by me, aligning with various modules covered in the exam syllabus.
+
+To optimise your study experience, it's highly recommended to begin with the [official learning modules](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification). Establishing a foundational understanding through these modules will strengthen your grasp of the subject matter, which can then be reinforced and expanded upon with the questions provided here. 
+
+Don't feel overwhelmed by the amount of questions! They are organised into modules, ensuring a structured and thorough preparation process. 
+
+[View my certification](https://www.credly.com/badges/02b9658b-9afd-47cb-842d-0c045773919e/public_url) 
+
+### Inspirations
+I have drawn inspiration from [this repository](https://github.com/olafwrieden/Azure-AI-900-Practice-Questions)
+
 <h1>Microsoft Questions</h1>
 
 <h4>1. You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?</h4>
@@ -1389,7 +1404,7 @@
   <p>To enable users to interact with the bot through various communication media</p>
 </details>
 
-<h2>Fundamentals of question answering with the Language Service</h2>
+<h2>Fundamentals of conversational language understanding</h2>
 <h4>1. What is an utterance in conversational language understanding?</h4>
 <ol type="a">
   <li>An example of something a user might say that the application must interpret</li>
@@ -1448,9 +1463,9 @@
 <details>
   <summary>Show Answer</summary>
   <p>To define entities, intents, and utterances for training</p>
+</details>
 
 <h2>Fundamentals of Azure AI Speech</h2>
-</details>
 <h4>1. What are the two primary capabilities supported by AI speech systems?</h4>
 <ol type="a">
   <li>Speech recognition and transcription</li>
