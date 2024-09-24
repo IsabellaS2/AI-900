@@ -12,11 +12,20 @@ Don't feel overwhelmed by the amount of questions! They are organised into modul
 
 [View my certification](https://www.credly.com/badges/02b9658b-9afd-47cb-842d-0c045773919e/public_url)
 
+---
+
+
 <h3>Inspirations</h3>
 
 I have drawn inspiration from [this repository](https://github.com/olafwrieden/Azure-AI-900-Practice-Questions)
 
+---
+
+
+## Table of Contents
+
 - [Azure AI-900 Fundamentals Practice Questions](#azure-ai-900-fundamentals-practice-questions)
+  - [Table of Contents](#table-of-contents)
   - [Microsoft Questions](#microsoft-questions)
   - [My Questions](#my-questions)
     - [Fundamental AI Concepts](#fundamental-ai-concepts)
