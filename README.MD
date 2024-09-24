@@ -1,18 +1,39 @@
 # Azure AI-900 Fundamentals Practice Questions
+
 Welcome to a comprehensive collection of practice questions designed to aid your preparation for the AI-900 exam, your gateway to understanding Azure fundamentals in artificial intelligence.
 
-## How to Utilise this Repository
+<h2>How to Utilise this Repository</h2>
+
 This repository is thoughtfully divided into two sections. The first section comprises practice questions provided by Microsoft within their training modules. The second section features additional questions curated by me, aligning with various modules covered in the exam syllabus.
 
-To optimise your study experience, it's highly recommended to begin with the [official learning modules](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification). Establishing a foundational understanding through these modules will strengthen your grasp of the subject matter, which can then be reinforced and expanded upon with the questions provided here. 
+To optimise your study experience, it's highly recommended to begin with the [official learning modules](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification). Establishing a foundational understanding through these modules will strengthen your grasp of the subject matter, which can then be reinforced and expanded upon with the questions provided here.
 
-Don't feel overwhelmed by the amount of questions! They are organised into modules, ensuring a structured and thorough preparation process. 
+Don't feel overwhelmed by the amount of questions! They are organised into modules, ensuring a structured and thorough preparation process.
 
-[View my certification](https://www.credly.com/badges/02b9658b-9afd-47cb-842d-0c045773919e/public_url) 
+[View my certification](https://www.credly.com/badges/02b9658b-9afd-47cb-842d-0c045773919e/public_url)
 
-### Inspirations
+<h3>Inspirations</h3>
+
 I have drawn inspiration from [this repository](https://github.com/olafwrieden/Azure-AI-900-Practice-Questions)
 
+- [Azure AI-900 Fundamentals Practice Questions](#azure-ai-900-fundamentals-practice-questions)
+  - [Microsoft Questions](#microsoft-questions)
+  - [My Questions](#my-questions)
+    - [Fundamental AI Concepts](#fundamental-ai-concepts)
+    - [Fundamentals of Machine Learning](#fundamentals-of-machine-learning)
+    - [Fundamentals of Azure AI Services](#fundamentals-of-azure-ai-services)
+    - [Fundamentals of Computer Vision](#fundamentals-of-computer-vision)
+    - [Fundamentals of Facical Recognition](#fundamentals-of-facical-recognition)
+    - [Fundamentals of Optical Character Recognition](#fundamentals-of-optical-character-recognition)
+    - [Fundamentals of Text Analysis with the Language Service](#fundamentals-of-text-analysis-with-the-language-service)
+    - [Fundamentals of question answering with the Language Service](#fundamentals-of-question-answering-with-the-language-service)
+    - [Fundamentals of conversational language understanding](#fundamentals-of-conversational-language-understanding)
+    - [Fundamentals of Azure AI Speech](#fundamentals-of-azure-ai-speech)
+    - [Fundamentals of Azure AI Document Intelligence](#fundamentals-of-azure-ai-document-intelligence)
+    - [Fundamentals of Knowledge Mining and Azure AI Search](#fundamentals-of-knowledge-mining-and-azure-ai-search)
+    - [Fundamentals of Generative AI](#fundamentals-of-generative-ai)
+    - [Fundamentals of Azure OpenAI Service](#fundamentals-of-azure-openai-service)
+    - [Fundamentals of Responsible Generative AI](#fundamentals-of-responsible-generative-ai)
 
 
 ## Microsoft Questions
@@ -515,31 +536,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>To enable you to gather feedback and identify issues before releasing the solution more broadly</p>
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## My Questions
+
 <h4>These are multiple choice questions I made up based on my notes to help me study</h4>
 
 ### Fundamental AI Concepts
@@ -660,7 +658,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Azure OpenAI Service</p>
 </details>
 
-<h2>Fundamentals of Machine Learning</h2>
+### Fundamentals of Machine Learning
+
 <h4>1. What is the fundamental goal of machine learning?</h4>
 <ol type="a">
   <li>To write code for predictive models</li>
@@ -908,7 +907,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>To manage machine learning resources and jobs</p>
 </details>
 
-<h2>Fundamentals of Azure AI Services</h2>
+### Fundamentals of Azure AI Services
+
 <h4>1. What is a significant benefit of Azure AI services?</h4>
 <ol type="a">
   <li>They require specialist AI knowledge to implement</li>
@@ -965,7 +965,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>To verify the user's identity and authorization to use the service</p>
 </details>
 
-<h2>Fundamentals of Computer Vision</h2>
+### Fundamentals of Computer Vision
+
 <h4>1. What is an image, from the perspective of a computer program?</h4>
 <ol type="a">
   <li>A representation of biological eyes</li>
@@ -1054,7 +1055,7 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Generating captions and descriptions of images</p>
 </details>
 
-<h2>Fundamentals of Facical Recognition</h2>
+### Fundamentals of Facical Recognition
 
 <h4>1. What is the primary purpose of face detection and analysis in artificial intelligence?</h4>
 <ol type="a">
@@ -1116,7 +1117,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Submit an intake form</p>
 </details>
 
-<h2>Fundamentals of Optical Character Recognition<h2/>
+### Fundamentals of Optical Character Recognition<h2/>
+
 <h4>1. What is OCR?</h4>
 <ol type="a">
   <li>Optical Character Rendering</li>
@@ -1225,7 +1227,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Marking areas of text in an image</p>
 </details>
 
-<h2>Fundamentals of Text Analysis with the Language Service</h2>
+### Fundamentals of Text Analysis with the Language Service
+
 <h4>1. What is the purpose of natural language processing (NLP) in computer systems?</h4>
 <ol type="a">
   <li>To interpret the subject of text in a way similar to humans</li>
@@ -1346,7 +1349,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Sentiment analysis</p>
 </details>
 
-<h2>Fundamentals of question answering with the Language Service</h2>
+### Fundamentals of question answering with the Language Service
+
 <h4>1. What is conversational AI?</h4>
 <ol type="a">
   <li>A solution that enables dialogue between an AI agent and a human</li>
@@ -1407,7 +1411,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>To enable users to interact with the bot through various communication media</p>
 </details>
 
-<h2>Fundamentals of conversational language understanding</h2>
+### Fundamentals of conversational language understanding
+
 <h4>1. What is an utterance in conversational language understanding?</h4>
 <ol type="a">
   <li>An example of something a user might say that the application must interpret</li>
@@ -1468,7 +1473,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>To define entities, intents, and utterances for training</p>
 </details>
 
-<h2>Fundamentals of Azure AI Speech</h2>
+### Fundamentals of Azure AI Speech
+
 <h4>1. What are the two primary capabilities supported by AI speech systems?</h4>
 <ol type="a">
   <li>Speech recognition and transcription</li>
@@ -1529,7 +1535,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Azure AI services</p>
 </details>
 
-<h2>Fundamentals of Azure AI Document Intelligence</h2>
+### Fundamentals of Azure AI Document Intelligence
+
 <h4>1. What is the main purpose of document intelligence?</h4>
 <ol type="a">
   <li>To create documents</li>
@@ -1590,7 +1597,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>It can recognize data on various receipt types with different languages and formats</p>
 </details>
 
-<h2>Fundamentals of Knowledge Mining and Azure AI Search</h2>
+### Fundamentals of Knowledge Mining and Azure AI Search
+
 <h4>1. What is the primary purpose of knowledge mining solutions like Azure AI Search?</h4>
 <ol type="a">
   <li>To manually read through documents</li>
@@ -1711,7 +1719,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Simple query syntax</p>
 </details>
 
-<h2>Fundamentals of Generative AI</h2>
+### Fundamentals of Generative AI
+
 <h4>1. What is generative AI?</h4>
 <ol type="a">
   <li>AI that imitates human behavior using predefined instructions</li>
@@ -1832,7 +1841,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>By providing examples and grounding data in prompts</p>
 </details>
 
-<h2>Fundamentals of Azure OpenAI Service</h2>
+### Fundamentals of Azure OpenAI Service
+
 <h4>1. What are the main goals of the partnership between Microsoft and OpenAI?</h4>
 <ol type="a">
   <li>To utilize Azure's infrastructure, including security, compliance, and regional availability, to help users build enterprise-grade applications.</li>
@@ -1917,7 +1927,8 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>To share information about how the technology is built and its implications</p>
 </details>
 
-<h2>Fundamentals of Responsible Generative AI</h2>
+### Fundamentals of Responsible Generative AI
+
 <h4>1. According to Microsoft's guidelines, what is the first stage in developing a responsible generative AI plan?</h4>
 <ol type="a">
   <li>Identify potential harms</li>
