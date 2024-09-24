@@ -13,7 +13,9 @@ Don't feel overwhelmed by the amount of questions! They are organised into modul
 ### Inspirations
 I have drawn inspiration from [this repository](https://github.com/olafwrieden/Azure-AI-900-Practice-Questions)
 
-<h1>Microsoft Questions</h1>
+
+
+## Microsoft Questions
 
 <h4>1. You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?</h4>
 <ol type="a">
@@ -537,9 +539,10 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
 
 
 
-<h1>My Questions</h1>
+## My Questions
 <h4>These are multiple choice questions I made up based on my notes to help me study</h4>
-<h2>Fundamental AI Concepts</h2>
+
+### Fundamental AI Concepts
 
 <h4>1. What is AI?</h4>
 <ol type="a">
