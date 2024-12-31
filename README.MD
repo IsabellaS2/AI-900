@@ -32,7 +32,7 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
     - [Fundamentals of Machine Learning](#fundamentals-of-machine-learning)
     - [Fundamentals of Azure AI Services](#fundamentals-of-azure-ai-services)
     - [Fundamentals of Computer Vision](#fundamentals-of-computer-vision)
-    - [Fundamentals of Facical Recognition](#fundamentals-of-facical-recognition)
+    - [Fundamentals of Facial Recognition](#fundamentals-of-facial-recognition)
     - [Fundamentals of Optical Character Recognition](#fundamentals-of-optical-character-recognition)
     - [Fundamentals of Text Analysis with the Language Service](#fundamentals-of-text-analysis-with-the-language-service)
     - [Fundamentals of question answering with the Language Service](#fundamentals-of-question-answering-with-the-language-service)
@@ -1064,7 +1064,7 @@ I have drawn inspiration from [this repository](https://github.com/olafwrieden/A
   <p>Generating captions and descriptions of images</p>
 </details>
 
-### Fundamentals of Facical Recognition
+### Fundamentals of Facial Recognition
 
 <h4>1. What is the primary purpose of face detection and analysis in artificial intelligence?</h4>
 <ol type="a">
